@@ -2,7 +2,7 @@ function sum(a,b){
     return a+b;
 }
 
-function sub(a,b){
+var sub=function(a,b){
     return a-b;
 }
 
